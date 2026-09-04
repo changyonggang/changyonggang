@@ -57,6 +57,16 @@
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=changyonggang&layout=compact&hide_border=true&langs_count=8"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/changyonggang/changyonggang/actions/workflows/snake.yml">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/changyonggang/changyonggang/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/changyonggang/changyonggang/output/github-snake.svg" />
+      <img alt="github contribution snake" src="https://raw.githubusercontent.com/changyonggang/changyonggang/output/github-snake.svg" />
+    </picture>
+  </a>
+</p>
+
 ### 📫 Reach me
 
 Open an issue, or drop a PR — the fastest way to reach me is a good bug report.
